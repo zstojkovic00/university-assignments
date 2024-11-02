@@ -2,7 +2,7 @@
 This project demonstrates the OAuth 2.0 authorization code flow with Okta. OAuth 2.0 is an authorization protocol used in our demo application to enable users to access resources without sharing their passwords with the website they're accessing. Instead, users authenticate via trusted identity providers such as Google, Facebook, or Okta.
 
 # Project Diagram
-![image](https://github.com/zstojkovic00/OAuth2.0/assets/57263190/a6054dce-a383-485f-823b-37818cedde96)
+![0Auth2.0-flow.png](0Auth2.0-flow.png)
 
 ## API documentation
 ### **client-auth-server endpoints:**
