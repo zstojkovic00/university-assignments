@@ -1,0 +1,139 @@
+title,id,key,name
+the Dark Child,1,Annie,Annie
+the Berserker,2,Olaf,Olaf
+the Colossus,3,Galio,Galio
+the Card Master,4,TwistedFate,Twisted Fate
+the Seneschal of Demacia,5,XinZhao,Xin Zhao
+the Dreadnought,6,Urgot,Urgot
+the Deceiver,7,Leblanc,LeBlanc
+the Crimson Reaper,8,Vladimir,Vladimir
+the Harbinger of Doom,9,Fiddlesticks,Fiddlesticks
+The Judicator,10,Kayle,Kayle
+the Wuju Bladesman,11,MasterYi,Master Yi
+the Minotaur,12,Alistar,Alistar
+the Rune Mage,13,Ryze,Ryze
+The Undead Juggernaut,14,Sion,Sion
+the Battle Mistress,15,Sivir,Sivir
+the Starchild,16,Soraka,Soraka
+the Swift Scout,17,Teemo,Teemo
+the Yordle Gunner,18,Tristana,Tristana
+the Uncaged Wrath of Zaun,19,Warwick,Warwick
+the Yeti Rider,20,Nunu,Nunu
+the Bounty Hunter,21,MissFortune,Miss Fortune
+the Frost Archer,22,Ashe,Ashe
+the Barbarian King,23,Tryndamere,Tryndamere
+Grandmaster at Arms,24,Jax,Jax
+Fallen Angel,25,Morgana,Morgana
+the Chronokeeper,26,Zilean,Zilean
+the Mad Chemist,27,Singed,Singed
+the Widowmaker,28,Evelynn,Evelynn
+the Plague Rat,29,Twitch,Twitch
+the Deathsinger,30,Karthus,Karthus
+the Terror of the Void,31,Chogath,Cho'Gath
+the Sad Mummy,32,Amumu,Amumu
+the Armordillo,33,Rammus,Rammus
+the Cryophoenix,34,Anivia,Anivia
+the Demon Jester,35,Shaco,Shaco
+the Madman of Zaun,36,DrMundo,Dr. Mundo
+Maven of the Strings,37,Sona,Sona
+the Void Walker,38,Kassadin,Kassadin
+the Will of the Blades,39,Irelia,Irelia
+the Storm's Fury,40,Janna,Janna
+the Saltwater Scourge,41,Gangplank,Gangplank
+the Daring Bombardier,42,Corki,Corki
+the Enlightened One,43,Karma,Karma
+the Shield of Valoran,44,Taric,Taric
+the Tiny Master of Evil,45,Veigar,Veigar
+the Troll King,48,Trundle,Trundle
+the Master Tactician,50,Swain,Swain
+the Sheriff of Piltover,51,Caitlyn,Caitlyn
+the Great Steam Golem,53,Blitzcrank,Blitzcrank
+Shard of the Monolith,54,Malphite,Malphite
+the Sinister Blade,55,Katarina,Katarina
+the Eternal Nightmare,56,Nocturne,Nocturne
+the Twisted Treant,57,Maokai,Maokai
+the Butcher of the Sands,58,Renekton,Renekton
+the Exemplar of Demacia,59,JarvanIV,Jarvan IV
+the Spider Queen,60,Elise,Elise
+the Lady of Clockwork,61,Orianna,Orianna
+the Monkey King,62,MonkeyKing,Wukong
+the Burning Vengeance,63,Brand,Brand
+the Blind Monk,64,LeeSin,Lee Sin
+the Night Hunter,67,Vayne,Vayne
+the Mechanized Menace,68,Rumble,Rumble
+the Serpent's Embrace,69,Cassiopeia,Cassiopeia
+the Crystal Vanguard,72,Skarner,Skarner
+the Revered Inventor,74,Heimerdinger,Heimerdinger
+the Curator of the Sands,75,Nasus,Nasus
+the Bestial Huntress,76,Nidalee,Nidalee
+the Spirit Walker,77,Udyr,Udyr
+Keeper of the Hammer,78,Poppy,Poppy
+the Rabble Rouser,79,Gragas,Gragas
+the Artisan of War,80,Pantheon,Pantheon
+the Prodigal Explorer,81,Ezreal,Ezreal
+the Iron Revenant,82,Mordekaiser,Mordekaiser
+Shepherd of Souls,83,Yorick,Yorick
+the Fist of Shadow,84,Akali,Akali
+the Heart of the Tempest,85,Kennen,Kennen
+The Might of Demacia,86,Garen,Garen
+the Radiant Dawn,89,Leona,Leona
+the Prophet of the Void,90,Malzahar,Malzahar
+the Blade's Shadow,91,Talon,Talon
+the Exile,92,Riven,Riven
+the Mouth of the Abyss,96,KogMaw,Kog'Maw
+the Eye of Twilight,98,Shen,Shen
+the Lady of Luminosity,99,Lux,Lux
+the Magus Ascendant,101,Xerath,Xerath
+the Half-Dragon,102,Shyvana,Shyvana
+the Nine-Tailed Fox,103,Ahri,Ahri
+the Outlaw,104,Graves,Graves
+the Tidal Trickster,105,Fizz,Fizz
+the Thunder's Roar,106,Volibear,Volibear
+the Pridestalker,107,Rengar,Rengar
+the Arrow of Retribution,110,Varus,Varus
+the Titan of the Depths,111,Nautilus,Nautilus
+the Machine Herald,112,Viktor,Viktor
+Fury of the North,113,Sejuani,Sejuani
+the Grand Duelist,114,Fiora,Fiora
+the Hexplosives Expert,115,Ziggs,Ziggs
+the Fae Sorceress,117,Lulu,Lulu
+the Glorious Executioner,119,Draven,Draven
+the Shadow of War,120,Hecarim,Hecarim
+the Voidreaver,121,Khazix,Kha'Zix
+the Hand of Noxus,122,Darius,Darius
+the Defender of Tomorrow,126,Jayce,Jayce
+the Ice Witch,127,Lissandra,Lissandra
+Scorn of the Moon,131,Diana,Diana
+Demacia's Wings,133,Quinn,Quinn
+the Dark Sovereign,134,Syndra,Syndra
+The Star Forger,136,AurelionSol,Aurelion Sol
+the Shadow Reaper,141,Kayn,Kayn
+Rise of the Thorns,143,Zyra,Zyra
+the Missing Link,150,Gnar,Gnar
+the Secret Weapon,154,Zac,Zac
+the Unforgiven,157,Yasuo,Yasuo
+the Eye of the Void,161,Velkoz,Vel'Koz
+the Stoneweaver,163,Taliyah,Taliyah
+the Steel Shadow,164,Camille,Camille
+the Heart of the Freljord,201,Braum,Braum
+the Virtuoso,202,Jhin,Jhin
+The Eternal Hunters,203,Kindred,Kindred
+the Loose Cannon,222,Jinx,Jinx
+the River King,223,TahmKench,Tahm Kench
+the Purifier,236,Lucian,Lucian
+the Master of Shadows,238,Zed,Zed
+the Cantankerous Cavalier,240,Kled,Kled
+the Boy Who Shattered Time,245,Ekko,Ekko
+the Piltover Enforcer,254,Vi,Vi
+the Darkin Blade,266,Aatrox,Aatrox
+the Tidecaller,267,Nami,Nami
+the Emperor of the Sands,268,Azir,Azir
+the Chain Warden,412,Thresh,Thresh
+the Kraken Priestess,420,Illaoi,Illaoi
+the Void Burrower,421,RekSai,Rek'Sai
+the Green Father,427,Ivern,Ivern
+the Spear of Vengeance,429,Kalista,Kalista
+the Wandering Caretaker,432,Bard,Bard
+The Charmer,497,Rakan,Rakan
+the Rebel,498,Xayah,Xayah
+The Fire below the Mountain,516,Ornn,Ornn

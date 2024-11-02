@@ -1,0 +1,3 @@
+Player wins: 0 rounds
+Opponent wins: 2 rounds
+Opponent wins the match!
